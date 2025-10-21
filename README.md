@@ -12,3 +12,28 @@ Ao tratar a infraestrutura como código, CloudFormation elimina a necessidade de
 + **Redução de Custos:** O reuso de modelos de infraestruturas já existentes reduz o esforço e o custo de projetar e implementar novas infraestruturas.
 
 A adoção do CloudFormation é um passo essencial para quem busca otimizar a gestão de ambientes AWS, transformando a complexidade em um processo automatizado e auditável.
+
+## 👩‍💻 Realizado por: 
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/194859576?s=400&u=beab67e10b95d1a468f6e7b1e6c763498e63e210&v=4"
+    />
+    <p>&nbsp&nbsp&nbspTainara Miranda<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/Tainara-Miranda">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/tainara-miranda-979954108/">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
